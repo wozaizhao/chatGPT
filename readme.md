@@ -29,9 +29,9 @@ Open your web browser and navigate to the URL of the repository on your web serv
 where you can enter text and receive a response from the OpenAI model.
 
 Built With
-- OpenAI API
+- [OpenAI API](https://platform.openai.com/docs/api-reference/completions)
 - JavaScript
-- AirCode
+- [AirCode](https://aircode.io/)
 
 Authors
 Alberto CHen
